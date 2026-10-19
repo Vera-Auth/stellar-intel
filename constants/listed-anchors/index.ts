@@ -29,6 +29,7 @@ import naobtc from './naobtc.json';
 import phoenix from './phoenix.json';
 import reyts from './reyts.json';
 import stronghold from './stronghold.json';
+import transparentNetwork from './transparent-network.json';
 import ultraCapital from './ultra-capital.json';
 import valtorum from './valtorum.json';
 import vnx from './vnx.json';
@@ -54,6 +55,7 @@ const RAW: unknown[] = [
   phoenix,
   reyts,
   stronghold,
+  transparentNetwork,
   ultraCapital,
   valtorum,
   vnx,
