@@ -28,6 +28,7 @@ import nafuloo from './nafuloo.json';
 import naobtc from './naobtc.json';
 import phoenix from './phoenix.json';
 import reyts from './reyts.json';
+import ripplefox from './ripplefox.json';
 import stronghold from './stronghold.json';
 import ultraCapital from './ultra-capital.json';
 import valtorum from './valtorum.json';
@@ -53,6 +54,7 @@ const RAW: unknown[] = [
   naobtc,
   phoenix,
   reyts,
+  ripplefox,
   stronghold,
   ultraCapital,
   valtorum,
