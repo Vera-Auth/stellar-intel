@@ -1,8 +1,0 @@
-# Source: https://ripplefox.com/.well-known/stellar.toml (transcribed from issue #1616; live fetch not yet verified)
-[[CURRENCIES]]
-code = "CNY"
-issuer = "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX"
-
-[[CURRENCIES]]
-code = "ULT"
-issuer = "GC76RMFNNXBFDSJRBXCABWLHXDK4ITVQSMI56DC2ZJVC3YOLLPCKKULT"
